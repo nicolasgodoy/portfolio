@@ -1,28 +1,33 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.971cdbac.css",
-    "main.js": "/portfolio/static/js/main.04e8237b.js",
+    "main.css": "/portfolio/static/css/main.0fa127cf.css",
+    "main.js": "/portfolio/static/js/main.26641f83.js",
     "static/js/787.cfd8f164.chunk.js": "/portfolio/static/js/787.cfd8f164.chunk.js",
     "static/media/spotiApp.jpg": "/portfolio/static/media/spotiApp.bca21cc309ad43a73c77.jpg",
+    "static/media/proyecto2.jpg": "/portfolio/static/media/proyecto2.66f9d1966f44713b5ec5.jpg",
     "static/media/fondogris2.jpg": "/portfolio/static/media/fondogris2.96540e06aee550b7461b.jpg",
     "static/media/apiTiempo.jpg": "/portfolio/static/media/apiTiempo.d5fdaf91cb10f57effb6.jpg",
     "static/media/heroes.jpg": "/portfolio/static/media/heroes.30430a5ad1c4bf767b92.jpg",
+    "static/media/Login.jpg": "/portfolio/static/media/Login.f22920bb8d03272050cd.jpg",
     "static/media/fotonico_2.jpeg": "/portfolio/static/media/fotonico_2.433b2ee86d1f2f77829e.jpeg",
     "static/media/iconreact.png": "/portfolio/static/media/iconreact.a28c55a008dc5a722d4f.png",
     "static/media/logonico.png": "/portfolio/static/media/logonico.d33ac92303df0a907de3.png",
     "static/media/iconangular.png": "/portfolio/static/media/iconangular.3a8aa4b064192e05e46a.png",
+    "static/media/portfolio.png": "/portfolio/static/media/portfolio.e878a6f8b1ff59c2abc8.png",
     "static/media/iconjavascript.png": "/portfolio/static/media/iconjavascript.e1b7a86ee8d867eee120.png",
     "static/media/iconcss3.png": "/portfolio/static/media/iconcss3.6b195c295a4bf307c09d.png",
     "static/media/iconhtml5.png": "/portfolio/static/media/iconhtml5.25539512c796a133f77a.png",
+    "static/media/API-JS.png": "/portfolio/static/media/API-JS.39a39499ff62e7e35167.png",
     "static/media/iconboostrap.png": "/portfolio/static/media/iconboostrap.489d79d334bf1d00b439.png",
     "static/media/icongithub.png": "/portfolio/static/media/icongithub.60cdb78c66a0b2b05d9a.png",
+    "static/media/tateti.jpg": "/portfolio/static/media/tateti.06a1686e6c4514ab62e4.jpg",
     "index.html": "/portfolio/index.html",
-    "main.971cdbac.css.map": "/portfolio/static/css/main.971cdbac.css.map",
-    "main.04e8237b.js.map": "/portfolio/static/js/main.04e8237b.js.map",
+    "main.0fa127cf.css.map": "/portfolio/static/css/main.0fa127cf.css.map",
+    "main.26641f83.js.map": "/portfolio/static/js/main.26641f83.js.map",
     "787.cfd8f164.chunk.js.map": "/portfolio/static/js/787.cfd8f164.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.971cdbac.css",
-    "static/js/main.04e8237b.js"
+    "static/css/main.0fa127cf.css",
+    "static/js/main.26641f83.js"
   ]
 }
