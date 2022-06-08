@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.d82c367c.css",
-    "main.js": "/portfolio/static/js/main.c8e027c8.js",
+    "main.css": "/portfolio/static/css/main.a5b84598.css",
+    "main.js": "/portfolio/static/js/main.573f2d82.js",
     "static/js/787.cfd8f164.chunk.js": "/portfolio/static/js/787.cfd8f164.chunk.js",
     "static/media/carrito.png": "/portfolio/static/media/carrito.4be43c0cd60fe2ce4d23.png",
     "static/media/spotiApp.jpg": "/portfolio/static/media/spotiApp.bca21cc309ad43a73c77.jpg",
@@ -10,11 +10,16 @@
     "static/media/apiTiempo.jpg": "/portfolio/static/media/apiTiempo.d5fdaf91cb10f57effb6.jpg",
     "static/media/heroes.jpg": "/portfolio/static/media/heroes.30430a5ad1c4bf767b92.jpg",
     "static/media/Login.jpg": "/portfolio/static/media/Login.f22920bb8d03272050cd.jpg",
+    "static/media/iconocontacto.png": "/portfolio/static/media/iconocontacto.2edd10e5fef5df1b7382.png",
     "static/media/fotonico_2.jpeg": "/portfolio/static/media/fotonico_2.433b2ee86d1f2f77829e.jpeg",
     "static/media/iconreact.png": "/portfolio/static/media/iconreact.a28c55a008dc5a722d4f.png",
     "static/media/logonico.png": "/portfolio/static/media/logonico.d33ac92303df0a907de3.png",
+    "static/media/iconhabilidades.png": "/portfolio/static/media/iconhabilidades.29c3212421ea3536fb64.png",
+    "static/media/iconoemail.png": "/portfolio/static/media/iconoemail.93cdf834b1c879a232a8.png",
     "static/media/mysql3.png": "/portfolio/static/media/mysql3.764b793469d807dd100a.png",
     "static/media/iconangular.png": "/portfolio/static/media/iconangular.3a8aa4b064192e05e46a.png",
+    "static/media/iconofb.png": "/portfolio/static/media/iconofb.a348dd233513a638ae34.png",
+    "static/media/iconoslinkedin.png": "/portfolio/static/media/iconoslinkedin.1cddae9c11a3ff644175.png",
     "static/media/portfolio.png": "/portfolio/static/media/portfolio.e878a6f8b1ff59c2abc8.png",
     "static/media/iconjavascript.png": "/portfolio/static/media/iconjavascript.e1b7a86ee8d867eee120.png",
     "static/media/iconcss3.png": "/portfolio/static/media/iconcss3.6b195c295a4bf307c09d.png",
@@ -23,14 +28,17 @@
     "static/media/API-JS.png": "/portfolio/static/media/API-JS.39a39499ff62e7e35167.png",
     "static/media/iconboostrap.png": "/portfolio/static/media/iconboostrap.489d79d334bf1d00b439.png",
     "static/media/icongithub.png": "/portfolio/static/media/icongithub.60cdb78c66a0b2b05d9a.png",
+    "static/media/iconsobremi.png": "/portfolio/static/media/iconsobremi.69b38c4b095aad67b24e.png",
     "static/media/tateti.jpg": "/portfolio/static/media/tateti.06a1686e6c4514ab62e4.jpg",
+    "static/media/iconinicio.png": "/portfolio/static/media/iconinicio.b376c9389275fe151ed5.png",
+    "static/media/iconopryectos.png": "/portfolio/static/media/iconopryectos.657d8ed16275297d18c8.png",
     "index.html": "/portfolio/index.html",
-    "main.d82c367c.css.map": "/portfolio/static/css/main.d82c367c.css.map",
-    "main.c8e027c8.js.map": "/portfolio/static/js/main.c8e027c8.js.map",
+    "main.a5b84598.css.map": "/portfolio/static/css/main.a5b84598.css.map",
+    "main.573f2d82.js.map": "/portfolio/static/js/main.573f2d82.js.map",
     "787.cfd8f164.chunk.js.map": "/portfolio/static/js/787.cfd8f164.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d82c367c.css",
-    "static/js/main.c8e027c8.js"
+    "static/css/main.a5b84598.css",
+    "static/js/main.573f2d82.js"
   ]
 }
