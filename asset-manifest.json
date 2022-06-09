@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.ad7d1e72.css",
-    "main.js": "/portfolio/static/js/main.ef277015.js",
+    "main.css": "/portfolio/static/css/main.4b20ce7c.css",
+    "main.js": "/portfolio/static/js/main.7818428f.js",
     "static/js/787.cfd8f164.chunk.js": "/portfolio/static/js/787.cfd8f164.chunk.js",
     "static/media/carrito.png": "/portfolio/static/media/carrito.4be43c0cd60fe2ce4d23.png",
     "static/media/spotiApp.jpg": "/portfolio/static/media/spotiApp.bca21cc309ad43a73c77.jpg",
@@ -34,12 +34,12 @@
     "static/media/iconinicio.png": "/portfolio/static/media/iconinicio.b376c9389275fe151ed5.png",
     "static/media/iconopryectos.png": "/portfolio/static/media/iconopryectos.657d8ed16275297d18c8.png",
     "index.html": "/portfolio/index.html",
-    "main.ad7d1e72.css.map": "/portfolio/static/css/main.ad7d1e72.css.map",
-    "main.ef277015.js.map": "/portfolio/static/js/main.ef277015.js.map",
+    "main.4b20ce7c.css.map": "/portfolio/static/css/main.4b20ce7c.css.map",
+    "main.7818428f.js.map": "/portfolio/static/js/main.7818428f.js.map",
     "787.cfd8f164.chunk.js.map": "/portfolio/static/js/787.cfd8f164.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ad7d1e72.css",
-    "static/js/main.ef277015.js"
+    "static/css/main.4b20ce7c.css",
+    "static/js/main.7818428f.js"
   ]
 }
