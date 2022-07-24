@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.b9d27357.css",
-    "main.js": "/portfolio/static/js/main.7e6b89ee.js",
+    "main.js": "/portfolio/static/js/main.d107dc6b.js",
     "static/js/787.cfd8f164.chunk.js": "/portfolio/static/js/787.cfd8f164.chunk.js",
     "static/media/carrito.png": "/portfolio/static/media/carrito.4be43c0cd60fe2ce4d23.png",
     "static/media/spotiApp.jpg": "/portfolio/static/media/spotiApp.bca21cc309ad43a73c77.jpg",
@@ -37,11 +37,11 @@
     "static/media/iconopryectos.png": "/portfolio/static/media/iconopryectos.657d8ed16275297d18c8.png",
     "index.html": "/portfolio/index.html",
     "main.b9d27357.css.map": "/portfolio/static/css/main.b9d27357.css.map",
-    "main.7e6b89ee.js.map": "/portfolio/static/js/main.7e6b89ee.js.map",
+    "main.d107dc6b.js.map": "/portfolio/static/js/main.d107dc6b.js.map",
     "787.cfd8f164.chunk.js.map": "/portfolio/static/js/787.cfd8f164.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b9d27357.css",
-    "static/js/main.7e6b89ee.js"
+    "static/js/main.d107dc6b.js"
   ]
 }
